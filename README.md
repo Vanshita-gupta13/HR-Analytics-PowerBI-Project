@@ -31,7 +31,8 @@ POWER BI is a powerful data visualisation platform used primarily for business i
 - Attrition By Job Role : Laboratory Technician (62), Sales Executive (57), Research scientist (47), Sales representative (33)
 
 
-![HR ANALYTICS ](https://github.com/user-attachments/assets/f6c7c5da-c8ef-468b-9162-8943acea1f3d)
+![HR ANALYTICS ](https://github.com/user-attachments/assets/41d45e71-dd60-45f0-91aa-edc54ab04b30)
+
 
 
 ### Steps to open project:
